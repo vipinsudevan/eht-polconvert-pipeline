@@ -1,0 +1,35 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+
+# Python virtual environments
+
+.venv/
+venv/
+
+# IDE/editor files
+
+.vscode/
+.idea/
+
+# Pipeline-generated files
+
+*.log
+CRASH_REPORT.txt
+script_is_running.lock
+summary.txt
+
+# Local output directories
+
+output/
+outputs/
+results/
+tmp/
+temp/
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
