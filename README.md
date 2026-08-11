@@ -323,8 +323,6 @@ If this software is associated with a research project or collaboration, make su
 
 Vipin SUdevan
 
-## Citation
-
 If this pipeline is used in research or publications, please cite the appropriate PolConvert/EHT software and methodology papers.
 
 Add project-specific citation information here when available.
