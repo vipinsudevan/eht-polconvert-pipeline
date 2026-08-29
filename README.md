@@ -307,17 +307,9 @@ The Git repository is intended to contain the pipeline code and documentation on
 
 ## Development
 
-Before committing changes, check the Python script for syntax errors:
-
-```bash
-python3 -m py_compile main.py
-```
 
 ## License
 
-Add the appropriate license for your project here.
-
-If this software is associated with a research project or collaboration, make sure the selected license is compatible with the project's requirements.
 
 ## Author
 
